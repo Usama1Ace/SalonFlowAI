@@ -1,5 +1,5 @@
 {
-  "name": "salonflowai" // Replace with a valid name
+  "name": "salonflowai",
   "version": 2,
   "builds": [
     {
