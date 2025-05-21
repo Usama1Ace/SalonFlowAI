@@ -5,6 +5,8 @@
   "main": "index.js",
     "scripts": {
     "dev": "next dev",
+        "test": "jest --passWithNoTests",
+
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
