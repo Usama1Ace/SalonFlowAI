@@ -7,7 +7,8 @@
     "start": "node server.js", 
   "test": "jest --passWithNoTests",
 
-    "build": "react-scripts build",
+    "build": "react-scripts build"
+_
   },
   "keywords": [
     "AI",
