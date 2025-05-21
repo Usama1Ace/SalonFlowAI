@@ -1,4 +1,4 @@
-import WeeklyTrendChart from "../components/WeeklyTrendChart";
+import WeeklyTrendChart from '@/src/components/WeeklyTrendChart';
 
 export default function Dashboard() {
   return (
