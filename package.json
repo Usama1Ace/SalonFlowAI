@@ -7,7 +7,7 @@
     "start": "node server.js", 
   "test": "jest --passWithNoTests",
 
-    "build": "webpack --mode production",
+    "build": "react-scripts build",
     "dev": "webpack serve --mode development"
   },
   "keywords": [
